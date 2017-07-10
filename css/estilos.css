@@ -1,0 +1,19 @@
+.menu {
+	display: block;
+	}
+.principal {
+    padding: 5% 2%;
+    text-align: center;
+}
+footer {
+	position:absolute;
+	top: 600px;
+	width:100%;
+	margin: 0px;
+}
+table th {
+  text-align: center;
+}
+footer p {
+	font-size: 10px;
+}
